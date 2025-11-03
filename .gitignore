@@ -2,6 +2,7 @@ venv/
 checkpoints/
 __pycache__/
 data/
+.ipynb_checkpoints/
 
 *.vocab
 *.model
