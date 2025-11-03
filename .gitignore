@@ -1,0 +1,7 @@
+venv/
+checkpoints/
+__pycache__/
+data/
+
+*.vocab
+*.model
